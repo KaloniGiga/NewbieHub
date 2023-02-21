@@ -3,11 +3,11 @@
 
 Thank you for your consideration to contribute.
 
-The following is a set of guidelines for contibuting to DevHub. These are not intended to be rules. Feel free to propose changes to this docuement in a pull request.
+The following is a set of guidelines for contibuting to DevHub. These are not intended to be rules. Feel free to propose changes to this document in a pull request.
 
 
 ## Code of Conduct
- See [Code_of_conduct.md](https://www.github.com)
+ See [Code_of_conduct.md](https://www.github.com/KaloniGiga/NewbieHub/blob/main/CONTRIBUTING.md)
 
 
 
@@ -36,12 +36,12 @@ The following is a set of guidelines for contibuting to DevHub. These are not in
     - Create a new feature for the project
 
  ### Work as an organizer
-  - Identify old issues and close them
-  - Ask questions and make contributions to new issues
+   - Identify old issues and close them
+   - Ask questions and make contributions to new issues
 
  ### help other contributors and user of the project
-  - Giving information and answering questions about the project on various platforms
-  - Answers people's questions regarding open issues
+   - Giving information and answering questions about the project on various platforms
+   - Answers people's questions regarding open issues
 
 
 ## Learn the details of the project
